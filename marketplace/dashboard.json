@@ -1,4 +1,17 @@
 {
-  "title": "3Pod Marketplace",
-  "subtitle": "Compra y vende."
+    "title": "3Pod Marketplace",
+    "subtitle": "El mejor lugar para encontrar contenido de valor",
+    "sections": {
+        "section_1": {
+            "input_search": "Buscar"
+        },
+        "section_2": {
+            "title": "Tú eliges",
+            "boxes": [
+                ["Compra", "Recibe los mejores productos a un precio inmejorable, recibe información del estado de tus compras e interactúa directamente con el vendedor."],
+                ["Vende", "Vende productos y recibe ganancias maximizando tus ingresos mensuales."],
+                ["Promociona", "Promociona productos y recibe ingresos adicionales."]
+            ]
+        }
+    }
 }
