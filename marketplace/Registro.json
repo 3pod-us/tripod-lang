@@ -1,0 +1,23 @@
+{
+    "titulo": "Crea tu cuenta",
+    "label.nombre": "Nombre",
+    "input.nombre": "Nombre",
+    "label.apellido": "Apellido",
+    "input.apellido": "Apellido",
+    "label.telefono": "Teléfono",
+    "input.telefono": "Teléfono",
+    "label.correo": "Correo electrónico",
+    "input.correo": "Correo electrónico",
+    "label.contrasena": "Contraseña",
+    "input.contrasena": "Contraseña",
+    "seleccion tipo de usuario": {
+        "cliente": "Quiero comprar",
+        "vendedor": "Quiero vender"
+    },
+    "boton.continuar":"Continuar",
+    "login.footer": {
+        "pregunta": "¿Ya tienes una cuenta?",
+        "accion": "Ingresar a tu cuenta"
+    }
+
+}
