@@ -14,7 +14,7 @@
         "cliente": "Quiero comprar",
         "vendedor": "Quiero vender"
     },
-    "boton.continuar":"Continuar",
+    "boton.continuar":"Continuar ",
     "login.footer": {
         "pregunta": "¿Ya tienes una cuenta?",
         "accion": "Ingresar a tu cuenta"
